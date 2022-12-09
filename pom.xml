@@ -12,7 +12,6 @@
         <module>demo-spring-boot-starter</module>
         <module>demo-service</module>
         <module>test-service</module>
-        <module>netty-test</module>
         <module>netty-test-server</module>
         <module>netty-test-client</module>
     </modules>
